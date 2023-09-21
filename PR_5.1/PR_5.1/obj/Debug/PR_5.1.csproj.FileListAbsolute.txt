@@ -1,0 +1,7 @@
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\obj\Debug\PR_5.1.csproj.AssemblyReference.cache
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\obj\Debug\PR_5.1.csproj.CoreCompileInputs.cache
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\bin\Debug\PR_5.1.exe.config
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\bin\Debug\PR_5.1.exe
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\bin\Debug\PR_5.1.pdb
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\obj\Debug\PR_5.1.exe
+C:\Users\01\Desktop\паша\PR_5.1\PR_5.1\obj\Debug\PR_5.1.pdb
